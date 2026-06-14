@@ -3,7 +3,7 @@ import Image from 'next/image'
 const Logo = () => {
   return (
     <div>
-      <Image src="/assets/Jadoo.svg" alt="Logo" width={114.91} height={33.9} />
+      <Image src="/assets/jadoo.svg" alt="Logo" width={115} height={34} />
     </div>
   )
 }
